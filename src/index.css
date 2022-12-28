@@ -150,3 +150,8 @@ ul {
     transform: rotate(360deg);
   }
 }
+
+button {
+  height: 30px;
+  width: 100px;
+}
